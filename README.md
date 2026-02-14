@@ -13,6 +13,10 @@ I'm a student learning software development and building projects to improve my 
 - Frameworks: **React, Node.js**
 - Tools: **Git, GitHub, VS Code** 
 
+## 🎮 Contribution Graph
+
+![Pacman Contribution Graph](https://raw.githubusercontent.com/MOB-06/MOB-06/output/pacman-contribution-graph.svg)
+
 ## 📊 GitHub Stats
 
 ![MOB-06's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MOB-06&show_icons=true&theme=radical&hide_border=true&count_private=true)
@@ -20,7 +24,6 @@ I'm a student learning software development and building projects to improve my 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MOB-06&layout=compact&theme=radical&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MOB-06&theme=radical&hide_border=true)
-
 
 
 ## 📌 Projects 
@@ -33,18 +36,3 @@ I'm a student learning software development and building projects to improve my 
 
 ---
 ⭐ Thanks for visiting my profile!
-
-<!--
-**MOB-06/MOB-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
