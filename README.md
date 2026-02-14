@@ -15,7 +15,7 @@ I'm a student learning software development and building projects to improve my 
 
 ## 🎮 Contribution Graph
 
-![Pacman Contribution Graph](https://raw.githubusercontent.com/MOB-06/MOB-06/output/pacman-contribution-graph.svg)
+![Pacman Contribution Graph](https://raw.githubusercontent.com/MOB-06/MOB-06/output/pacman-contribution-graph-dark.svg)
 
 ## 📊 GitHub Stats
 
