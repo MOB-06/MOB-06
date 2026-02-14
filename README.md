@@ -21,6 +21,10 @@ I'm a student learning software development and building projects to improve my 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MOB-06&theme=radical&hide_border=true)
 
+## 🎮 Pac-Man eating my contributions
+
+![Pac-Man](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.sv
+
 ## 📌 Projects 
 - **Project 1:** [Personal Portfolio](https://ajitadhikari1.com.np) — personal portfolio
 - **Project 2:** [Test Game](https://spiffy-longma-8676e8.netlify.app) — test game though only works on pc
