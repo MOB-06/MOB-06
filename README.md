@@ -13,7 +13,7 @@ I'm a 1st sem student learning software development and building projects to imp
 - Frameworks: **React, Node.js**
 - Tools: **Git, GitHub, VS Code** 
 ##
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="center" height="155" src="https://i.imgflip.com/65efzo.gif"  />
 ## 🎮 Contribution Graph
 
 ![Pacman Contribution Graph](https://raw.githubusercontent.com/MOB-06/MOB-06/output/pacman-contribution-graph-dark.svg)
