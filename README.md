@@ -1,15 +1,15 @@
 # Hi, I'm MOB-06 👋
 
-I'm a student learning software development and building projects to improve my skills.
+I'm a 1st sem student learning software development and building projects to improve my skills.
 
 ## 👨‍💻 About me
 - 🎓 Student
-- 🌱 Currently learning: **Python, Java, Web Dev, React, etc.**
+- 🌱 Currently learning: **Python, Java, Web Dev, React, prompt coding  etc.**
 - 🎯 Goal: **build apps, get internship, contribute to open source, etc.**
 - 📍 Location: **KTM**
 
 ## 🧰 Skills / Tools
-- Languages: **Python, JavaScript, C++**
+- Languages: **Python, JavaScript, **
 - Frameworks: **React, Node.js**
 - Tools: **Git, GitHub, VS Code** 
 
