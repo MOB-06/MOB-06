@@ -35,7 +35,7 @@ I'm a 1st sem student learning software development and building projects to imp
 - **Project 2:** [Test Game](https://spiffy-longma-8676e8.netlify.app) — test game though only works on pc
 
 ## 📫 Contact
-- GitHub: https://github.com/MOB-06
+- Instagram: https://www.instagram.com/e_re_b_us?igsh=MXU1dzB1aGxkYTJtZw==
 - Email: **ajitadhikari18@gmail.com**
 
 ---
