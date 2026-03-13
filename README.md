@@ -36,9 +36,10 @@ I'm a 1st sem student learning software development and building projects to imp
 </div>
 
 
-## 📊 GitHub Stats
+## 🎮 Contribution Graph
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MOB-06&theme=radical&hide_border=true)
+![Pacman Contribution Graph](https://raw.githubusercontent.com/MOB-06/MOB-06/output/pacman-contribution-graph-dark.svg)
+
 
 
 ## 📌 Projects 
