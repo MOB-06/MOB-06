@@ -35,9 +35,6 @@ I'm a 1st sem student learning software development and building projects to imp
 
 </div>
 
-## 🎮 Contribution Graph
-
-![Pacman Contribution Graph](https://raw.githubusercontent.com/MOB-06/MOB-06/output/pacman-contribution-graph-dark.svg)
 
 ## 📊 GitHub Stats
 
