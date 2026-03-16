@@ -40,6 +40,10 @@ I'm a 1st sem student learning software development and building projects to imp
 
 ![Pacman Contribution Graph](https://raw.githubusercontent.com/MOB-06/MOB-06/output/pacman-contribution-graph-dark.svg)
 
+<p align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=Sudin-Neupane&theme=dark&hide_border=false" />
+</p>
+
 
 
 ## 📌 Projects 
